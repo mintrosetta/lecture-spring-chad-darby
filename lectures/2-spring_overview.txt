@@ -1,0 +1,22 @@
+
+    :: Spring Overview
+
+    :: Core Container
+    > Beans
+        - class ที่ถูกจัดการด้วย spring
+    > Core
+        - จัดการการสร้าง bean 
+    > SpEL
+        - spring expression language
+        - เป็นภาษาเล็ก ๆ ที่เราใช้ในการ config file
+    > Context
+        - เป็น spring container จัดเก็บ bean ไว้ใน memory
+
+    :: Data Access Layer
+    > JDBC
+    > ORM
+    > Transactions
+        > OXM
+        > JMS
+            - Java Message Service
+            - ใช้ส่งข้อตวามแบบ async ไปที่ message broker
