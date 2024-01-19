@@ -4,3 +4,8 @@
 
         :: Spring Boot
         เป็นส่วนหนึ่งของ spring โดยจะรวบรวม dependencies ที่จำเป็นไว้ให้เรา
+
+        :: Maven
+        ใช้จัดการกับ dependencies ในโปรเจค Java Application ของเรา 
+        คล้ายกับ Node Package Manager ที่จะจัดการกับ node module 
+        และคอยรวบรวมโปรเขคของเราให้เป็น jar file เพื่อทำ production
