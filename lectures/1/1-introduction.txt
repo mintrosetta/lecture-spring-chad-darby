@@ -1,0 +1,6 @@
+
+        :: Spring 
+        เป็น Framework ที่ได้รับความนิยมในการสร้าง Java Application
+
+        :: Spring Boot
+        เป็นส่วนหนึ่งของ spring โดยจะรวบรวม dependencies ที่จำเป็นไว้ให้เรา
